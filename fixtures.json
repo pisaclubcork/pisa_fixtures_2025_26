@@ -40,7 +40,7 @@
     "homeLogo": "images/napoli.png",
     "awayTeam": "Pisa",
     "awayLogo": "images/pisa.png",
-    "startTimeIrish": "2025-09-21T17:00",
+    "startTimeIrish": "2025-09-22T19:45",
     "competition": "Serie A",
     "comments": "Match 4"
   },
@@ -49,7 +49,7 @@
     "homeLogo": "images/pisa.png",
     "awayTeam": "Fiorentina",
     "awayLogo": "images/fiorentina.png",
-    "startTimeIrish": "2025-09-28T17:00",
+    "startTimeIrish": "2025-09-28T14:00",
     "competition": "Serie A",
     "comments": "Match 5"
   },
@@ -58,7 +58,7 @@
     "homeLogo": "images/bologna.png",
     "awayTeam": "Pisa",
     "awayLogo": "images/pisa.png",
-    "startTimeIrish": "2025-10-05T17:00",
+    "startTimeIrish": "2025-10-05T14:00",
     "competition": "Serie A",
     "comments": "Match 6"
   },
@@ -67,7 +67,7 @@
     "homeLogo": "images/pisa.png",
     "awayTeam": "Verona",
     "awayLogo": "images/hellas_verona.png",
-    "startTimeIrish": "2025-10-19T17:00",
+    "startTimeIrish": "2025-10-18T14:00",
     "competition": "Serie A",
     "comments": "Match 7"
   },
@@ -76,7 +76,7 @@
     "homeLogo": "images/milan.png",
     "awayTeam": "Pisa",
     "awayLogo": "images/pisa.png",
-    "startTimeIrish": "2025-10-26T16:00",
+    "startTimeIrish": "2025-10-24T19:45",
     "competition": "Serie A",
     "comments": "Match 8"
   },
@@ -85,7 +85,7 @@
     "homeLogo": "images/pisa.png",
     "awayTeam": "Lazio",
     "awayLogo": "images/lazio.png",
-    "startTimeIrish": "2025-10-29T19:45",
+    "startTimeIrish": "2025-10-30T19:45",
     "competition": "Serie A",
     "comments": "Match 9"
   },
@@ -94,8 +94,26 @@
     "homeLogo": "images/torino.png",
     "awayTeam": "Pisa",
     "awayLogo": "images/pisa.png",
-    "startTimeIrish": "2025-11-02T19:45",
+    "startTimeIrish": "2025-11-02T14:00",
     "competition": "Serie A",
     "comments": "Match 10"
+  },
+  {
+    "homeTeam": "Pisa",
+    "homeLogo": "images/pisa.png",
+    "awayTeam": "Cremonese",
+    "awayLogo": "images/cremonese.png",
+    "startTimeIrish": "2025-11-07T19:45",
+    "competition": "Serie A",
+    "comments": "Match 11"
+  },
+  {
+    "homeTeam": "Sassuolo",
+    "homeLogo": "images/sassuolo.png",
+    "awayTeam": "Pisa",
+    "awayLogo": "images/pisa.png",
+    "startTimeIrish": "2025-11-24T19:45",
+    "competition": "Serie A",
+    "comments": "Match 12"
   }
 ]
