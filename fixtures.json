@@ -45,6 +45,15 @@
     "comments": "Match 4"
   },
   {
+    "homeTeam": "Torino",
+    "homeLogo": "images/torino.png",
+    "awayTeam": "Pisa",
+    "awayLogo": "images/pisa.png",
+    "startTimeIrish": "2025-09-25T20:00",
+    "competition": "Coppa Italia",
+    "comments": "Sedicesimi"
+  },
+  {
     "homeTeam": "Pisa",
     "homeLogo": "images/pisa.png",
     "awayTeam": "Fiorentina",
