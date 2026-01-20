@@ -115,5 +115,23 @@
     "startTimeIrish": "2026-01-23T19:45",
     "competition": "Serie A",
     "comments": "Match 22"
+  },
+  {
+    "homeTeam": "Pisa",
+    "homeLogo": "images/pisa.png",
+    "awayTeam": "Sassuolo",
+    "awayLogo": "images/sassuolo.png",
+    "startTimeIrish": "2026-01-31T14:00",
+    "competition": "Serie A",
+    "comments": "Match 23"
+  },
+  {
+    "homeTeam": "Hellas Verona",
+    "homeLogo": "images/verona.png",
+    "awayTeam": "Pisa",
+    "awayLogo": "images/pisa.png",
+    "startTimeIrish": "2026-02-06T19:45",
+    "competition": "Serie A",
+    "comments": "Match 24"
   }
 ]
