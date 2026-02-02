@@ -133,5 +133,23 @@
     "startTimeIrish": "2026-02-06T19:45",
     "competition": "Serie A",
     "comments": "Match 24"
+  },
+  {
+    "homeTeam": "Pisa",
+    "homeLogo": "images/pisa.png",
+    "awayTeam": "Milan",
+    "awayLogo": "images/milan.png",
+    "startTimeIrish": "2026-02-13T19:45",
+    "competition": "Serie A",
+    "comments": "Match 25"
+  },
+  {
+    "homeTeam": "Fiorentina",
+    "homeLogo": "images/fiorentina.png",
+    "awayTeam": "Pisa",
+    "awayLogo": "images/pisa.png",
+    "startTimeIrish": "2026-02-23T17:30",
+    "competition": "Serie A",
+    "comments": "Match 26"
   }
 ]
