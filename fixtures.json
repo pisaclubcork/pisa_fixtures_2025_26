@@ -160,4 +160,32 @@
     "startTimeIrish": "2026-03-02T17:30",
     "competition": "Serie A",
     "comments": "Match 27"
-  }]
+  },
+  {
+    "homeTeam": "Juventus",
+    "homeLogo": "images/juventus.png",
+    "awayTeam": "Pisa",
+    "awayLogo": "images/pisa.png",
+    "startTimeIrish": "2026-03-07T19:45",
+    "competition": "Serie A",
+    "comments": "Match 28"
+  },
+  {
+    "homeTeam": "Pisa",
+    "homeLogo": "images/pisa.png",
+    "awayTeam": "Cagliari",
+    "awayLogo": "images/cagliari.png",
+    "startTimeIrish": "2026-03-15T14:00",
+    "competition": "Serie A",
+    "comments": "Match 29"
+  },
+  {
+    "homeTeam": "Como",
+    "homeLogo": "images/como.png",
+    "awayTeam": "Pisa",
+    "awayLogo": "images/pisa.png",
+    "startTimeIrish": "2026-03-22T11:30",
+    "competition": "Serie A",
+    "comments": "Match 230"
+  }
+]
