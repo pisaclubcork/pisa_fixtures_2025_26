@@ -2,13 +2,13 @@
   {
     "homeTeam": "Pisa",
     "homeLogo": "images/pisa.png",
-    "awayTeam": "Cremonese",
-    "awayLogo": "images/cremonese.png",
-    "startTimeIrish": "2025-11-07T19:45",
-    "endTimeIrish": "2025-11-07T21:36",
+    "awayTeam": "Cagliari",
+    "awayLogo": "images/cagliari.png",
+    "startTimeIrish": "2026-03-15T14:00",
+    "endTimeIrish": "2026-03-15T15:59",
     "competition": "Serie A",
-    "matchDay": "Matchday 11",
-    "finalResult": "1 - 0",
+    "matchDay": "Matchday 29",
+    "finalResult": "1 - 3",
     "comments": "End time considers: +45 minutes for the first half, +1 minute of extra time, +15 minutes for the break, +45 minutes for the second half, and +5 minutes of extra time."
   }
 ]
