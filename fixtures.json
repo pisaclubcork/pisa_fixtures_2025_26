@@ -196,5 +196,32 @@
     "startTimeIrish": "2026-04-05T17:00",
     "competition": "Serie A",
     "comments": "Match 31"
+  },
+  {
+    "homeTeam": "Roma",
+    "homeLogo": "images/roma.png",
+    "awayTeam": "Pisa",
+    "awayLogo": "images/pisa.png",
+    "startTimeIrish": "2026-04-10T19:45",
+    "competition": "Serie A",
+    "comments": "Match 32"
+  },
+  {
+    "homeTeam": "Pisa",
+    "homeLogo": "images/pisa.png",
+    "awayTeam": "Genoa",
+    "awayLogo": "images/genoa.png",
+    "startTimeIrish": "2026-04-19T17:00",
+    "competition": "Serie A",
+    "comments": "Match 33"
+  },
+  {
+    "homeTeam": "Parma",
+    "homeLogo": "images/parma.png",
+    "awayTeam": "Pisa",
+    "awayLogo": "images/pisa.png",
+    "startTimeIrish": "2026-04-25T14:00",
+    "competition": "Serie A",
+    "comments": "Match 34"
   }
 ]
