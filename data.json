@@ -275,17 +275,17 @@
         "comments": "Match 38"
     },
     "lastSerieAGoal" : {
-        "homeTeam": "Lazio",
-        "homeLogo": "images/lazio.png",
-        "homeScore": "0",
-        "awayTeam": "Pisa",
-        "awayLogo": "images/pisa.png",
-        "awayScore": "0",
-        "startTimeIrish": "2026-05-24T17:00",
+        "homeTeam": "Pisa",
+        "homeLogo": "images/pisa.png",
+        "homeScore": "3",
+        "awayTeam": "Cagliari",
+        "awayLogo": "images/cagliari.png",
+        "awayScore": "1",
+        "startTimeIrish": "2026-03-15T14:00",
         "competition": "Serie A",
-        "comments": "Match 38",
-        "lastScorerName": "",
-        "lastGoalMinute": "74'"
+        "comments": "Match 29"
+        "lastScorerName": "Antonio Caracciolo",
+        "lastGoalMinute": "54'"
     },
     "LastSerieAVictory": {
       {
