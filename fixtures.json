@@ -223,5 +223,14 @@
     "startTimeIrish": "2026-04-25T14:00",
     "competition": "Serie A",
     "comments": "Match 34"
-  }
+  },
+  {
+    "homeTeam": "Pisa",
+    "homeLogo": "images/pisa.png",
+    "awayTeam": "Lecce",
+    "awayLogo": "images/lecce.png",
+    "startTimeIrish": "2026-05-01T19:45",
+    "competition": "Serie A",
+    "comments": "Match 35"
+  },
 ]
