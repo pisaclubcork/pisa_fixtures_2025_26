@@ -1,0 +1,304 @@
+{
+  "fixtures": [
+    {
+      "homeTeam": "Torino",
+      "homeLogo": "images/torino.png",
+      "awayTeam": "Pisa",
+      "awayLogo": "images/pisa.png",
+      "startTimeIrish": "2025-11-02T14:00",
+      "competition": "Serie A",
+      "comments": "Match 10"
+    },
+    {
+      "homeTeam": "Pisa",
+      "homeLogo": "images/pisa.png",
+      "awayTeam": "Cremonese",
+      "awayLogo": "images/cremonese.png",
+      "startTimeIrish": "2025-11-07T19:45",
+      "competition": "Serie A",
+      "comments": "Match 11"
+    },
+    {
+      "homeTeam": "Sassuolo",
+      "homeLogo": "images/sassuolo.png",
+      "awayTeam": "Pisa",
+      "awayLogo": "images/pisa.png",
+      "startTimeIrish": "2025-11-24T19:45",
+      "competition": "Serie A",
+      "comments": "Match 12"
+    },
+    {
+      "homeTeam": "Pisa",
+      "homeLogo": "images/pisa.png",
+      "awayTeam": "Inter",
+      "awayLogo": "images/inter.png",
+      "startTimeIrish": "2025-11-30T14:00",
+      "competition": "Serie A",
+      "comments": "Match 13"
+    },
+    {
+      "homeTeam": "Pisa",
+      "homeLogo": "images/pisa.png",
+      "awayTeam": "Parma",
+      "awayLogo": "images/parma.png",
+      "startTimeIrish": "2025-12-08T14:00",
+      "competition": "Serie A",
+      "comments": "Match 14"
+    },
+    {
+      "homeTeam": "Lecce",
+      "homeLogo": "images/lecce.png",
+      "awayTeam": "Pisa",
+      "awayLogo": "images/pisa.png",
+      "startTimeIrish": "2025-12-12T19:45",
+      "competition": "Serie A",
+      "comments": "Match 15"
+    },
+    {
+      "homeTeam": "Cagliari",
+      "homeLogo": "images/cagliari.png",
+      "awayTeam": "Pisa",
+      "awayLogo": "images/pisa.png",
+      "startTimeIrish": "2025-12-21T11:30",
+      "competition": "Serie A",
+      "comments": "Match 16"
+    },
+    {
+      "homeTeam": "Pisa",
+      "homeLogo": "images/pisa.png",
+      "awayTeam": "Juventus",
+      "awayLogo": "images/juventus.png",
+      "startTimeIrish": "2025-12-27T19:45",
+      "competition": "Serie A",
+      "comments": "Match 17"
+    },
+    {
+      "homeTeam": "Genoa",
+      "homeLogo": "images/genoa.png",
+      "awayTeam": "Pisa",
+      "awayLogo": "images/pisa.png",
+      "startTimeIrish": "2026-01-03T14:00",
+      "competition": "Serie A",
+      "comments": "Match 18"
+    },
+    {
+      "homeTeam": "Pisa",
+      "homeLogo": "images/pisa.png",
+      "awayTeam": "Como",
+      "awayLogo": "images/como.png",
+      "startTimeIrish": "2026-01-06T14:00",
+      "competition": "Serie A",
+      "comments": "Match 19"
+    },
+    {
+      "homeTeam": "Udinese",
+      "homeLogo": "images/udinese.png",
+      "awayTeam": "Pisa",
+      "awayLogo": "images/pisa.png",
+      "startTimeIrish": "2026-01-10T14:00",
+      "competition": "Serie A",
+      "comments": "Match 20"
+    },
+    {
+      "homeTeam": "Pisa",
+      "homeLogo": "images/pisa.png",
+      "awayTeam": "Atalanta",
+      "awayLogo": "images/atalanta.png",
+      "startTimeIrish": "2026-01-16T19:45",
+      "competition": "Serie A",
+      "comments": "Match 21"
+    },
+    {
+      "homeTeam": "Inter",
+      "homeLogo": "images/inter.png",
+      "awayTeam": "Pisa",
+      "awayLogo": "images/pisa.png",
+      "startTimeIrish": "2026-01-23T19:45",
+      "competition": "Serie A",
+      "comments": "Match 22"
+    },
+    {
+      "homeTeam": "Pisa",
+      "homeLogo": "images/pisa.png",
+      "awayTeam": "Sassuolo",
+      "awayLogo": "images/sassuolo.png",
+      "startTimeIrish": "2026-01-31T14:00",
+      "competition": "Serie A",
+      "comments": "Match 23"
+    },
+    {
+      "homeTeam": "Hellas Verona",
+      "homeLogo": "images/hellas_verona.png",
+      "awayTeam": "Pisa",
+      "awayLogo": "images/pisa.png",
+      "startTimeIrish": "2026-02-06T19:45",
+      "competition": "Serie A",
+      "comments": "Match 24"
+    },
+    {
+      "homeTeam": "Pisa",
+      "homeLogo": "images/pisa.png",
+      "awayTeam": "Milan",
+      "awayLogo": "images/milan.png",
+      "startTimeIrish": "2026-02-13T19:45",
+      "competition": "Serie A",
+      "comments": "Match 25"
+    },
+    {
+      "homeTeam": "Fiorentina",
+      "homeLogo": "images/fiorentina.png",
+      "awayTeam": "Pisa",
+      "awayLogo": "images/pisa.png",
+      "startTimeIrish": "2026-02-23T17:30",
+      "competition": "Serie A",
+      "comments": "Match 26"
+    },
+    {
+      "homeTeam": "Pisa",
+      "homeLogo": "images/pisa.png",
+      "awayTeam": "Bologna",
+      "awayLogo": "images/bologna.png",
+      "startTimeIrish": "2026-03-02T17:30",
+      "competition": "Serie A",
+      "comments": "Match 27"
+    },
+    {
+      "homeTeam": "Juventus",
+      "homeLogo": "images/juventus.png",
+      "awayTeam": "Pisa",
+      "awayLogo": "images/pisa.png",
+      "startTimeIrish": "2026-03-07T19:45",
+      "competition": "Serie A",
+      "comments": "Match 28"
+    },
+    {
+      "homeTeam": "Pisa",
+      "homeLogo": "images/pisa.png",
+      "awayTeam": "Cagliari",
+      "awayLogo": "images/cagliari.png",
+      "startTimeIrish": "2026-03-15T14:00",
+      "competition": "Serie A",
+      "comments": "Match 29"
+    },
+    {
+      "homeTeam": "Como",
+      "homeLogo": "images/como.png",
+      "awayTeam": "Pisa",
+      "awayLogo": "images/pisa.png",
+      "startTimeIrish": "2026-03-22T11:30",
+      "competition": "Serie A",
+      "comments": "Match 30"
+    },
+    {
+      "homeTeam": "Pisa",
+      "homeLogo": "images/pisa.png",
+      "awayTeam": "Torino",
+      "awayLogo": "images/torino.png",
+      "startTimeIrish": "2026-04-05T17:00",
+      "competition": "Serie A",
+      "comments": "Match 31"
+    },
+    {
+      "homeTeam": "Roma",
+      "homeLogo": "images/roma.png",
+      "awayTeam": "Pisa",
+      "awayLogo": "images/pisa.png",
+      "startTimeIrish": "2026-04-10T19:45",
+      "competition": "Serie A",
+      "comments": "Match 32"
+    },
+    {
+      "homeTeam": "Pisa",
+      "homeLogo": "images/pisa.png",
+      "awayTeam": "Genoa",
+      "awayLogo": "images/genoa.png",
+      "startTimeIrish": "2026-04-19T17:00",
+      "competition": "Serie A",
+      "comments": "Match 33"
+    },
+    {
+      "homeTeam": "Parma",
+      "homeLogo": "images/parma.png",
+      "awayTeam": "Pisa",
+      "awayLogo": "images/pisa.png",
+      "startTimeIrish": "2026-04-25T14:00",
+      "competition": "Serie A",
+      "comments": "Match 34"
+    },
+    {
+      "homeTeam": "Pisa",
+      "homeLogo": "images/pisa.png",
+      "awayTeam": "Lecce",
+      "awayLogo": "images/lecce.png",
+      "startTimeIrish": "2026-05-01T19:45",
+      "competition": "Serie A",
+      "comments": "Match 35"
+    },
+    {
+      "homeTeam": "Cremonese",
+      "homeLogo": "images/cremonese.png",
+      "awayTeam": "Pisa",
+      "awayLogo": "images/pisa.png",
+      "startTimeIrish": "2026-05-10T17:00",
+      "competition": "Serie A",
+      "comments": "Match 36"
+    },
+    {
+      "homeTeam": "Pisa",
+      "homeLogo": "images/pisa.png",
+      "awayTeam": "Napoli",
+      "awayLogo": "images/napoli.png",
+      "startTimeIrish": "2026-05-17T17:00",
+      "competition": "Serie A",
+      "comments": "Match 37"
+    },
+    {
+      "homeTeam": "Lazio",
+      "homeLogo": "images/lazio.png",
+      "awayTeam": "Pisa",
+      "awayLogo": "images/pisa.png",
+      "startTimeIrish": "2026-05-24T17:00",
+      "competition": "Serie A",
+      "comments": "Match 38"
+    }
+  ],
+  "timers": {
+    "lastSerieAMatch": {
+        "homeTeam": "Lazio",
+        "homeLogo": "images/lazio.png",
+        "homeScore": "0",
+        "awayTeam": "Pisa",
+        "awayLogo": "images/pisa.png",
+        "awayScore": "0",
+        "startTimeIrish": "2026-05-24T17:00",
+        "competition": "Serie A",
+        "comments": "Match 38"
+    },
+    "lastSerieAGoal" : {
+        "homeTeam": "Lazio",
+        "homeLogo": "images/lazio.png",
+        "homeScore": "0",
+        "awayTeam": "Pisa",
+        "awayLogo": "images/pisa.png",
+        "awayScore": "0",
+        "startTimeIrish": "2026-05-24T17:00",
+        "competition": "Serie A",
+        "comments": "Match 38",
+        "lastScorerName": "",
+        "lastGoalMinute": "74'"
+    },
+    "LastSerieAVictory": {
+      {
+        "homeTeam": "Pisa",
+        "homeLogo": "images/pisa.png",
+        "homeScore": "3",
+        "awayTeam": "Cagliari",
+        "awayLogo": "images/cagliari.png",
+        "awayScore": "1",
+        "startTimeIrish": "2026-03-15T14:00",
+        "competition": "Serie A",
+        "comments": "Match 29"
+      }
+    }
+  }
+}
