@@ -274,6 +274,17 @@
         "competition": "Serie A",
         "comments": "Match 38"
     },
+    "relegation": {
+        "homeTeam": "Lazio",
+        "homeLogo": "images/lazio.png",
+        "homeScore": "0",
+        "awayTeam": "Pisa",
+        "awayLogo": "images/pisa.png",
+        "awayScore": "0",
+        "startTimeIrish": "2026-05-24T17:00",
+        "competition": "Serie A",
+        "comments": "Match 38"
+    },
     "lastSerieAGoal" : {
         "homeTeam": "Pisa",
         "homeLogo": "images/pisa.png",
