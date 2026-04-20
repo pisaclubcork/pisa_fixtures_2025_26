@@ -274,7 +274,7 @@
         "competition": "Serie A",
         "comments": "Match 38"
     },
-    "relegation": {
+    "relegationConfirmed": {
         "homeTeam": "Lazio",
         "homeLogo": "images/lazio.png",
         "homeScore": "0",
