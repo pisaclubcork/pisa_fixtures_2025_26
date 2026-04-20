@@ -288,15 +288,15 @@
     "lastSerieAGoal" : {
         "homeTeam": "Pisa",
         "homeLogo": "images/pisa.png",
-        "homeScore": "3",
-        "awayTeam": "Cagliari",
-        "awayLogo": "images/cagliari.png",
-        "awayScore": "1",
-        "startTimeIrish": "2026-03-15T14:00",
+        "homeScore": "1",
+        "awayTeam": "Genoa",
+        "awayLogo": "images/genoa.png",
+        "awayScore": "2",
+        "startTimeIrish": "2026-04-19T17:00",
         "competition": "Serie A",
-        "comments": "Match 29",
-        "lastScorerName": "Antonio Caracciolo",
-        "lastGoalMinute": "54"
+        "comments": "Match 33",
+        "lastScorerName": "Simone Canestrelli",
+        "lastGoalMinute": "19"
     },
     "lastSerieAVictory": {
         "homeTeam": "Pisa",
