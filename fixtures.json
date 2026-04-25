@@ -232,5 +232,14 @@
     "startTimeIrish": "2026-05-01T19:45",
     "competition": "Serie A",
     "comments": "Match 35"
+  },
+  {
+    "homeTeam": "Cremonese",
+    "homeLogo": "images/cremonese.png",
+    "awayTeam": "Pisa",
+    "awayLogo": "images/pisa.png",
+    "startTimeIrish": "2026-05-10T14:00",
+    "competition": "Serie A",
+    "comments": "Match 36"
   }
 ]
