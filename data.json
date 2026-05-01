@@ -275,28 +275,28 @@
         "comments": "Match 38"
     },
     "relegationConfirmed": {
-        "homeTeam": "Lazio",
-        "homeLogo": "images/lazio.png",
-        "homeScore": "0",
-        "awayTeam": "Pisa",
-        "awayLogo": "images/pisa.png",
-        "awayScore": "0",
-        "startTimeIrish": "2026-05-24T17:00",
+        "homeTeam": "Pisa",
+        "homeLogo": "images/pisa.png",
+        "homeScore": "1",
+        "awayTeam": "Lecce",
+        "awayLogo": "images/lecce.png",
+        "awayScore": "2",
+        "startTimeIrish": "2026-05-01T19:45",
         "competition": "Serie A",
-        "comments": "Match 38"
+        "comments": "Match 35"
     },
     "lastSerieAGoal" : {
         "homeTeam": "Pisa",
         "homeLogo": "images/pisa.png",
         "homeScore": "1",
-        "awayTeam": "Genoa",
-        "awayLogo": "images/genoa.png",
-        "awayScore": "2",
-        "startTimeIrish": "2026-04-19T17:00",
+        "awayTeam": "Lecce",
+        "awayLogo": "images/lecce.png",
+        "awayScore": "3",
+        "startTimeIrish": "2026-05-01T19:45",
         "competition": "Serie A",
         "comments": "Match 33",
-        "lastScorerName": "Simone Canestrelli",
-        "lastGoalMinute": "19"
+        "lastScorerName": "Medhi Léris",
+        "lastGoalMinute": "56"
     },
     "lastSerieAVictory": {
         "homeTeam": "Pisa",
